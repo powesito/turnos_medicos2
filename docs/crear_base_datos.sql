@@ -1,3 +1,4 @@
+# Subí este archivo porque la evaluación lo solicitaba, aunque tenía dudas sobre si era necesario subirlo o no. 
 -- Ejecutar en MySQL como administrador (root)
 CREATE DATABASE IF NOT EXISTS turnos_medicos CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
