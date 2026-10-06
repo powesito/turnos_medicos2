@@ -6,3 +6,4 @@ __pycache__/
 db.sqlite3
 
 # Tenía dudas sobre si había que subir este archivo, por eso le coloqué el “#” al final. decidi subirlo por que en la evalucion lo pedia
+# docs/crear_base_datos.sql
