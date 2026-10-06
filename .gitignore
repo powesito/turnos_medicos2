@@ -5,5 +5,5 @@ __pycache__/
 *.pyc
 db.sqlite3
 
-# tenia dudas si se subia este archivo al github por eso puse el # al final decidi subirlo
+# Tenía dudas sobre si este archivo debía subirse a GitHub, por eso le puse el “#” al final. Finalmente, decidí subirlo por las dudas.
 # docs/crear_base_datos.sql
